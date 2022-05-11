@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
+you can know more details about myslef in https://portfolio1sanjay.netlify.app/
 
 <!--
 **SanJay1577/SanJay1577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
