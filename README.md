@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
+Hi, I'm Sanjay, I am an Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
 you can know more details about myslef in https://portfolio1sanjay.netlify.app/
 
 <!--
